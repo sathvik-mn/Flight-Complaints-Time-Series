@@ -1,5 +1,8 @@
 # Time Series Analysis and Forecasting of Airline Baggage Complaints
 
+![image](https://github.com/user-attachments/assets/4aa9fd58-1113-47be-bee3-12ff94addb0c)
+
+
 ## Project Overview
 This project aims to analyze and forecast airline baggage complaints using time series data. The dataset includes baggage complaints, scheduled flights, canceled flights, and enplaned passengers for three airlines: American Eagle, Hawaiian, and United, spanning from January 2004 to December 2010. The objective is to understand trends, seasonality, and patterns in baggage complaints and to forecast future complaints using advanced time series modeling techniques.
 
